@@ -6,11 +6,8 @@
 <!-- body -->
 
 **기술 스택**
-- *Spring FramWork 활용*
-- *Java / JavaScript / AJAX*
-- *HTML / CSS / JSP*
-- *MySQL DB*
-- *Python / COLAB / Pycharm*
+- *Java*
+- *Oracle DB*
   
 
 
@@ -19,17 +16,32 @@
 
   **담당**
 
-- 사진 등록 기능 구현(파일 선택, 미리 보기, Drag and Drop)
-- 친구 추천 알고리즘 생성
-- 친구 추천 관련 MySQL DB 관리,  추가
-- 친구 추천 관련 페이지  JavaScript Ajax를 활용한 비동기 처리
-- 친구 리스트 출력, 동아리 조회 페이지 리스트 출력 기능 구현
-- 닮은 동물 상 찾기 모델(데이터 크롤링, 전처리, 모델링)
+- 음식 추천 키워드 검색 기능, 리스트 출력, 상세 조회, 리뷰 등록
+- 의류 쇼핑몰 커뮤니티 게시판 게시물 출력, 상세 조회, 등록, 수정, 삭제, 리뷰 등록
 
  --- 
 
 <br/>
 
-  **화면구현**
+  **데이터베이스(Oracle)**
+
+- 레시피 추천
+<br/>
+
+![14](https://github.com/jeonggyohoon/MVC-pattern-imarket/assets/133930245/27c4a29a-36cb-4bf7-8c77-71c98056e174)
+
+
+<br/>
   
 <br/>
+
+- 의류 쇼핑몰
+<br/>
+
+![KakaoTalk_20230828_232950737](https://github.com/jeonggyohoon/MVC-pattern-imarket/assets/133930245/25fc6919-dcf9-4a89-be6b-d28c66b1f739)
+
+
+<br/>
+  
+<br/>
+
